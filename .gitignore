@@ -1,0 +1,10 @@
+.vscode/
+__pycache__/
+config.json
+main.py
+ProblemList.py
+ProblemListGenerator.py
+README-EN.md
+1.txt
+README-2.md
+.gitignore
